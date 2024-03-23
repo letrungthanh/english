@@ -57,3 +57,7 @@ Many people work to help others who don't have enough food. Some charities give 
 Our planet Earth and almost everything on it needs water. Without water, plants, animals and people would die. In some places, there is a lot of water. In other places, there isn't enough water, and this makes life very difficult.
 
 A lot of water is used for farming. Crops need water to grow, and animals drink water. In industry, people use water to help machines to work and so that they can make the things that we need and enjoy. Water is also important at home. We drink water. We use water to wash ourselves, clothes /kloʊðz/, and dishes /dɪʃiz/, and to clean the home. We also use water when we flush the toilet.
+
+## Working with Water
+
+Many people work to provide water for farming and industry, and for the home. Most of the fresh water that people use comes from rivers, lakes, or under the ground. People build reservoirs to store this water. They also build pipes to take it to different places. In places, where there isn't enough water, volunteers sometimes work with local people to build wells to provide water for families. They also help to keep water in wells and springs as clean as possible. Most of Earth's water is salt water in the oceans or frozen into ice. Only about 1% can be used by people for drinking, cooking, washing, farming, and industry.
