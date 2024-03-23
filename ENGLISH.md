@@ -64,4 +64,8 @@ Many people work to provide water for farming and industry, and for the home. Mo
 
 ## Clean Water
 
-If people drink or touch dirty water, the can get very sick. People need clean water to stay healthy. People in richer countries are lucky because they have all the clean water that they need. In the water industry, people use chemicals to clean dirty water that people have used. In many poor countries, people have no clean water. Everyday, they have to use dirty water for cooking, drinking, and washing. More than one bilion people don't have clean water to drink. In some countries, charities give people Life-Straws. Life-Straws make dirty water clean and safe to drink.
+If people drink or touch dirty water, the can get very sick. People need clean water to stay healthy. People in richer countries are lucky because they have all the clean water that they need. In the water industry, people use chemicals to clean dirty water that people have used. In many poor countries, people have no clean water. Everyday, they have to use dirty water for cooking, drinking, and washing. More than one billion people don't have clean water to drink. In some countries, charities give people Life-Straws. Life-Straws make dirty water clean and safe to drink.
+
+## Saving Water
+
+Today, there are about six billion people on our planet. Every day, there are more. Many people don't have enough water, or they have to travel a long way to collect water. We need to do things now to make sure that people in the future will have enough water. We can all help to save water. Don't use too much water when you wash your hands and face, brush your teeth, and wash the dishes. Turn off the water when you have enough. Put water in the refrigerator /rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/, so that you don't have to turn on the water and use lots of it every time you want a cold drink. Take a shower not a bath. If you have to take a bath, don't fill the bathtub /ˈbæθ.tʌb/.
