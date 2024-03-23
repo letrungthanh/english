@@ -61,3 +61,7 @@ A lot of water is used for farming. Crops need water to grow, and animals drink 
 ## Working with Water
 
 Many people work to provide water for farming and industry, and for the home. Most of the fresh water that people use comes from rivers, lakes, or under the ground. People build reservoirs to store this water. They also build pipes to take it to different places. In places, where there isn't enough water, volunteers sometimes work with local people to build wells to provide water for families. They also help to keep water in wells and springs as clean as possible. Most of Earth's water is salt water in the oceans or frozen into ice. Only about 1% can be used by people for drinking, cooking, washing, farming, and industry.
+
+## Clean Water
+
+If people drink or touch dirty water, the can get very sick. People need clean water to stay healthy. People in richer countries are lucky because they have all the clean water that they need. In the water industry, people use chemicals to clean dirty water that people have used. In many poor countries, people have no clean water. Everyday, they have to use dirty water for cooking, drinking, and washing. More than one bilion people don't have clean water to drink. In some countries, charities give people Life-Straws. Life-Straws make dirty water clean and safe to drink.
