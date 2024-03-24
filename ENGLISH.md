@@ -1,19 +1,5 @@
 # English
 
-[[ TOC ]]
-
-## [Spelling plural](https://www.youtube.com/watch?v=UaFIejjqCoI)
-
-* /z/ _voiced: vowel, diphthong_. e.g. beds, cafe
-* _unvoiced_
-* _special cases_
-
-## [Spelling -ed](https://youtu.be/A7hi-ipU2n0)
-
-* /ɪd/ _t d_. e.g. landed
-* /t/ _unvoiced sounds p f s t k ʃ θ tʃ_ . e.g. packed
-* /d/ _voiced consonant_, _vowel_, or _diphthong_. e.g. saved
-
 ## Voluntary Work
 
 In many countries, the government helps to care for people. Governments give money to workers like doctors and nurses. Sometimes, when there isn't enough money, more help is needed. More help is needed after an emergency, too. Volunteers give this help. Anyone can do voluntary work. Volunteers can be young or old. Many volunteers work with charities that help people all around the world. Some doctors and nurses fly thousands of kilometers to do voluntary work in another country. They work in hospitals or clinics for many weeks or months. They sometimes give vaccinations so that people do not get serious diseases. Every year in the USA, about sixty-two million people do voluntary work. About 8 million volunteers are 16 to 24 years old.
@@ -56,7 +42,7 @@ Many people work to help others who don't have enough food. Some charities give 
 
 Our planet Earth and almost everything on it needs water. Without water, plants, animals and people would die. In some places, there is a lot of water. In other places, there isn't enough water, and this makes life very difficult.
 
-A lot of water is used for farming. Crops need water to grow, and animals drink water. In industry, people use water to help machines to work and so that they can make the things that we need and enjoy. Water is also important at home. We drink water. We use water to wash ourselves, clothes /kloʊðz/, and dishes /dɪʃiz/, and to clean the home. We also use water when we flush the toilet.
+A lot of water is used for farming. Crops need water to grow, and animals drink water. In industry, people use water to help machines to work and so that they can make the things that we need and enjoy. Water is also important at home. We drink water. We use water to wash ourselves, clothes, and dishes, and to clean the home. We also use water when we flush the toilet.
 
 ## Working with Water
 
@@ -68,4 +54,16 @@ If people drink or touch dirty water, the can get very sick. People need clean w
 
 ## Saving Water
 
-Today, there are about six billion people on our planet. Every day, there are more. Many people don't have enough water, or they have to travel a long way to collect water. We need to do things now to make sure that people in the future will have enough water. We can all help to save water. Don't use too much water when you wash your hands and face, brush your teeth, and wash the dishes. Turn off the water when you have enough. Put water in the refrigerator /rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/, so that you don't have to turn on the water and use lots of it every time you want a cold drink. Take a shower not a bath. If you have to take a bath, don't fill the bathtub /ˈbæθ.tʌb/.
+Today, there are about six billion people on our planet. Every day, there are more. Many people don't have enough water, or they have to travel a long way to collect water. We need to do things now to make sure that people in the future will have enough water. We can all help to save water. Don't use too much water when you wash your hands and face, brush your teeth, and wash the dishes. Turn off the water when you have enough. Put water in the refrigerator, so that you don't have to turn on the water and use lots of it every time you want a cold drink. Take a shower not a bath. If you have to take a bath, don't fill the bathtub.
+
+## Taxis-I
+
+I hate using taxis here. The drivers drive too fast and really dangerously, and they're often rude. The cars are mostly in pretty poor condition, but what I hate the most is that they aren't air-conditioned. It's so hot here. They really need air-conditioned taxis. By the time I arrive somewhere, I feel really hot and uncomfortable.
+
+## Taxis-II
+
+I find the taxis here are okay. They're pretty comfortable. Most of the cars they use are new, and they keep them pretty clean. They're a little expensive, though. I paid 75 dollars to come from the airport. That's too expensive. I guess the thing I hate the most, though, is that the drivers don't speak English very well. It's very difficult to explain to them where you want to go.
+
+## Taxis-III
+
+The taxis here are okay, I guess. The drivers take credit cards. That's the thing I like most about them. It's really convenient; but the taxis are pretty old, so they're not very comfortable. Haft of them don't have seat belts or air conditioning.
