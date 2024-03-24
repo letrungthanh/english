@@ -14,6 +14,14 @@
 
 ## Vocabularies
 
+### Voluntary Work
+
+* govern /ˈɡʌv.ɚn/
+* governance /ˈɡʌv.ɚ.nəns/
+* government /ˈɡʌv.ɚn.mənt/
+
+
+
 * clothe /kloʊð/
 * fridge /frɪdʒ/
 * refrigerator /rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/
