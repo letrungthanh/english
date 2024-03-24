@@ -67,3 +67,9 @@ I find the taxis here are okay. They're pretty comfortable. Most of the cars the
 ## Taxis-III
 
 The taxis here are okay, I guess. The drivers take credit cards. That's the thing I like most about them. It's really convenient; but the taxis are pretty old, so they're not very comfortable. Haft of them don't have seat belts or air conditioning.
+
+## Oprah Winfery
+
+Oprah Winfery is a famous American TV talk show host. Forty nine million people in 134 countries watch her show every week. She lives in California but she also has a apartment in Chicago, where she works. Oprah is one of richest women in America. She earns milions of dollars every year. She gives a lot of money to charity.
+
+She was born on January 29th, 1954 in Kosciusko, Missisippi. Her parents were very poor. Her farther, Vernon Winfrey, worked in a coal mine and her mother, Vernita, cleaned houses. They couldn't look after Oprah, so she lived with her grandmother, Hattie Mae. Oprah was clever. She could read before she was three, and when she was seventeen she received a scholarship to Tennessee State University where she studied drama. She also started reading the news at the local radion station.
