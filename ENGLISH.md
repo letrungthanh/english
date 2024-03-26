@@ -1,5 +1,46 @@
 # English
 
+## Why Do We Sleep?
+
+* snooze /snuːz/
+* snoozing /ˈsnuː.zɪŋ/
+* fact /fækt/
+* sleep /sliːp/
+* almost /ˈɑːl.moʊst/
+* body /ˈbɑː.di/
+* ever /ˈev.ɚ/
+* wonder /ˈwʌn.dɚ/
+* instead /ɪnˈsted/
+* exact /ɪɡˈzækt/
+* lark /lɑːrk/
+* nocturnal /nɑːkˈtɝː.nəl/
+* active /ˈæk.tɪv/
+* awareness /əˈwer.nəs/
+* wakefulness /ˈweɪk.fəl.nəs/
+* relax /rɪˈlæks/
+* breathing /ˈbriː.ðɪŋ/
+* regular /ˈreɡ.jə.lɚ/
+* recover /rɪˈkʌv.ɚ/
+
+We all spend a lot of our time snoozing. In fact, children sleep for almost half of their lives. Why? It's because our bodies need it. Sleep is just as important as food and exercise.
+
+Have you ever wondered why we sleep at night-time, instead of during the day? You can't see it, but your body has a clock which matches the Sun, and it can tell when it's night and when it's day. As night comes, and it gets darker, your brain tells you it's time for sleep. But we're not all exactly the same when it comes to bedtime...
+
+Some of us like to go to sleep early, and to wake up early as well. These people are sometimes called larks because larks wake up and start singing as soon as it is light.
+
+Others like to go to bed later, and then sleep late in the morning. They are often called night owls because owls are nocturnal, meaning they're active at night.
+
+* Larks wake early to sing their songs.
+* Owls come out at night.
+
+Which one are you?
+
+So what exactly is sleep? It's a natural state of rest, where your awareness of what's happening around you gets turned right down. There are several different stages of sleep, which repeat through the night.
+
+* It takes around seven minutes for most of us to go from wakefulness to light sleep.
+* We relax further: our body temperature drops, our breathing becomes regular, and we enter deep sleep. This is when your body recovers from the day.
+* We dream during Rapid Eye Movement (REM) sleep.
+
 ## Voluntary Work
 
 * country /ˈkʌn.tri/
