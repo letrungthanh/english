@@ -180,6 +180,14 @@ Today, there are about six billion people on our planet. Every day, there are mo
 
 ## Taxis-I
 
+* hate /heɪt/
+* taxi /ˈtæk.si/
+* dangerous /ˈdeɪn.dʒɚ.əs/
+* pretty /ˈprɪt̬.i/
+* comfort /ˈkʌm.fɚt/
+* comfortable /ˈkʌm.fɚ.t̬ə.bəl/
+* uncomfortable /ʌnˈkʌm.fɚ.t̬ə/
+
 I hate using taxis here. The drivers drive too fast and really dangerously, and they're often rude. The cars are mostly in pretty poor condition, but what I hate the most is that they aren't air-conditioned. It's so hot here. They really need air-conditioned taxis. By the time I arrive somewhere, I feel really hot and uncomfortable.
 
 ## Taxis-II
