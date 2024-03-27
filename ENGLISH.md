@@ -1,13 +1,35 @@
 # English
 
+## Challenge-1
+
+* computer /kəmˈpjuː.t̬ɚ/
+* repair /rɪˈper/
+* except /ɪkˈsept/
+* urgent /ˈɝː.dʒənt/
+* representative /ˌrep.rɪˈzen.t̬ə.t̬ɪv/
+* prompt /prɑːmpt/
+* promptly /ˈprɑːmpt.li
+* query /ˈkwɪr.i/
+* inquiry /ˈɪŋ.kwɚ.i/ /ɪnˈkwaɪə.ri/
+* website /ˈweb.saɪt/
+* close /kloʊz/
+* closed /kloʊzd/
+* holiday /ˈhɑː.lə.deɪ/
+
+Hello. Thank you for calling Larson's Computer repair center. We are currently closed. Our opening hours are from 9:00 AM to 5:00 PM everyday except national holidays. If you have an urgent inquiry about our services, please leave your name, number and a short message after the beep. One of our customer representatives will get back to you promptly in the morning. For all other queries, please call back during business hours or check our website at www.larsonrepairs.com. Thank you.
+
+Hello. Thank you for calling Larson's Computer repair center. We are currently _closed/zd/_. Our opening _hours are_ from, 9:00 AM, to 5:00 PM, everyday, except, national _holidays/z/_. If you _have an_ urgent inquiry, about our services, please, leave your name, number, _and a_ short message, after the beep. One of our customer _representatives/z/_, will get back to you promptly, in the morning. For all other _queries/z/_, please, call back during business _hours/z/_, or, _check our_ website at www.larsonrepairs.com. Thank you.
+
 ## Why Do We Sleep?
 
+* spend /spend/
 * snooze /snuːz/
 * snoozing /ˈsnuː.zɪŋ/
 * fact /fækt/
 * sleep /sliːp/
 * almost /ˈɑːl.moʊst/
 * body /ˈbɑː.di/
+* exercise /ˈek.sɚ.saɪz/
 * ever /ˈev.ɚ/
 * wonder /ˈwʌn.dɚ/
 * instead /ɪnˈsted/
