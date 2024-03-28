@@ -16,9 +16,25 @@
 * closed /kloʊzd/
 * holiday /ˈhɑː.lə.deɪ/
 
-Hello. Thank you for calling Larson's Computer repair center. We are currently closed. Our opening hours are from 9:00 AM to 5:00 PM everyday except national holidays. If you have an urgent inquiry about our services, please leave your name, number and a short message after the beep. One of our customer representatives will get back to you promptly in the morning. For all other queries, please call back during business hours or check our website at www.larsonrepairs.com. Thank you.
+Hello. Thank you for calling Larson's Computer repair center. We are currently closed. Our opening hours are from 9:00 AM to 5:00 PM everyday except national holidays. If you have an urgent inquiry about our services, please leave your name, number and a short message after the beep. One of our customer representatives will get back to you promptly in the morning. For all other queries, please call back during business hours or check our website at <www.larsonrepairs.com>. Thank you.
 
-Hello. Thank you for calling Larson's Computer repair center. We are currently _closed/zd/_. Our opening _hours are_ from, 9:00 AM, to 5:00 PM, everyday, except, national _holidays/z/_. If you _have an_ urgent inquiry, about our services, please, leave your name, number, _and a_ short message, after the beep. One of our customer _representatives/z/_, will get back to you promptly, in the morning. For all other _queries/z/_, please, call back during business _hours/z/_, or, _check our_ website at www.larsonrepairs.com. Thank you.
+Hello. Thank you for calling Larson's Computer repair center. We are currently _closed/zd/_. Our opening _hours are_ from, 9:00 AM, to 5:00 PM, everyday, except, national _holidays/z/_. If you _have an_ urgent inquiry, about our services, please, leave your name, number, _and a_ short message, after the beep. One of our customer _representatives/z/_, will get back to you promptly, in the morning. For all other _queries/z/_, please, call back during business _hours/z/_, or, _check our_ website at <www.larsonrepairs.com>. Thank you.
+
+## Challenge-2
+
+* solution /səˈluː.ʃən/
+* auto /ˈɑː.t̬oʊ/
+* shop /ʃɑːp/
+* experience /ɪkˈspɪr.i.əns/
+* experienced /ɪkˈspɪr.i.ənst/
+* professional /prəˈfeʃ.ən.əl/
+* estimate /ˈes.tə.meɪt/
+* hesitate /ˈhez.ə.teɪt/
+* call /kɑːl/
+* car /kɑːr/
+* ride /raɪd/
+
+DT custom solutions is New York's number one auto body repair shop. Our experienced professionals have know how to get very job done right. Best of all, we always provide free estimates. So if you have a problem with your ride, don't hesitate to call DT custom solutions today.
 
 ## Why Do We Sleep?
 
