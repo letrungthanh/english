@@ -36,6 +36,19 @@ Hello. Thank you for calling Larson's Computer repair center. We are currently _
 
 DT custom solutions is New York's number one auto body repair shop. Our experienced professionals have know how to get very job done right. Best of all, we always provide free estimates. So if you have a problem with your ride, don't hesitate to call DT custom solutions today.
 
+## Xuxu-1
+
+* princess /prɪnˈses/
+* castle /ˈkæs.əl/
+* wonderland /ˈwʌn.dɚ.lænd/
+* large /lɑːrdʒ/
+* color /ˈkʌl.ɚ/
+* colorful /ˈkʌl.ɚ.fəl/
+* flower /ˈflaʊ.ɚ/
+* garden /ˈɡɑːr.dən/
+
+There is a pretty princess, she has got long hair and blue eyes. The princess lives in a beautiful castle with her parents - the king and queen of the wonderland. There is a large garden with lots of colorful flowers and a lot of trees in the castle. The princess really loves this garden, she plays there everyday.
+
 ## Why Do We Sleep?
 
 * spend /spend/
