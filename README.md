@@ -28,13 +28,15 @@ Hello. Thank you for calling Larson's Computer repair center. We are currently _
 * experience /ɪkˈspɪr.i.əns/
 * experienced /ɪkˈspɪr.i.ənst/
 * professional /prəˈfeʃ.ən.əl/
-* estimate /ˈes.tə.meɪt/
+* estimate /ˈes.tə.meɪt/ /ˈes·tə·mət/
 * hesitate /ˈhez.ə.teɪt/
 * call /kɑːl/
 * car /kɑːr/
 * ride /raɪd/
 
 DT custom solutions is New York's number one auto body repair shop. Our experienced professionals have know how to get very job done right. Best of all, we always provide free estimates. So if you have a problem with your ride, don't hesitate to call DT custom solutions today.
+
+DT custom _solutions is_ New York's number one auto body repair shop. Our _experienced/ɪkˈspɪr.i.ənst/_ _professionals/prəˈfeʃ.ən.əlz/_ have know how to get very _job/dʒɑːb/_ done right. Best of all, we always provide free _estimates/ˈes·tə·məts/_. So if you _have a_ problem with your _ride/raɪd/_, don't _hesitate/ˈhez.ə.teɪt/_ to call DT custom solutions today.
 
 ## Xuxu-1
 
