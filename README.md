@@ -94,6 +94,27 @@ So what exactly is sleep? It's a natural state of rest, where your awareness of 
 * We relax further: our body temperature drops, our breathing becomes regular, and we enter deep sleep. This is when your body recovers from the day.
 * We dream during Rapid Eye Movement (REM) sleep.
 
+Sleep affects every part of your body in the most incredible ways. Your brain even gets cleaned while you sleep! Here are some of the other things that a good night's sleep helps with.
+
+* Calms your emotions
+* Helps you remember new skills
+* Shapes the events of the day into memories
+* Fights infections
+* Keeps your heart healthy
+* Heals your skin
+* Helps your nails grow
+* Helps bones and muscles grow strong
+
+Lots of other funny things can happen while you sleep...
+
+Woah! Have you ever had a strang feeling that you're faling out of bed? This sometimes happens as you're falling asleep, and you jerk awake. It's called a hypnic jerk. Scientists think it happens because, as our muscles relax, our brain gets confused and thinks we're falling, so it tries to catch itself.
+
+Snore! Nearly all children snore some of the time, especially when they have a cold, and one in ten children snores every night. It happens when something blocks the air going to your throat. It might be your tongue or your airways, which relax as you sleep, the vibrate like a musical instrument.
+
+Chit! Children tend to talk in their sleep much more than adults. Sometimes sleep talkers make perfect sense. You can even have a conversation with them! Buf if a sleep talker is in a very deep sleep they usually talk gibberish.
+
+Chat! Around 15 percent of children sleepwalk, and it happens more if you're not getting enough sleep. Sometimes children just sit up in bed. Sometimes they walk all around the house.
+
 ## Voluntary Work
 
 * country /ˈkʌn.tri/
