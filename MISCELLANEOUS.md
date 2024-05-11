@@ -80,17 +80,31 @@ Otherwise, she gave nice and good responses to my more miscellaneous questions a
 
 ### 2nd
 
-#### Grammar and Vocabulary 30/30
+_Grammar and Vocabulary_: 30/30
 
 Xu has scored a perfect 30! Which is not surprising because she is always meticulous and pays great attention to detail while writing. Her handwriting is crystal clear and she is very good at grammar and spellings. She is wonderfully articulate for her age and has tremendous potential to do well in languages and communication. I am counting on this little girl to do great things in school and also in life.
 
-#### Speaking 60/60
+_Speaking_: 60/60
 
 Xu answered all the questions with perfection. Her answers ware correctly structured, and she used all the grammar and vocabulary learnt in class. Her concepts are clear. Her pronunciation is immaculate. Overall, a brilliant student. She is articulate beyond her years and is clearly gifted in languages and communication.
 
-#### Listening 8/10
+_Listening_: 8/10
 
 Pretty good listening skills! Pay closer attention to the teacher.
+
+### 3rd
+
+_Grammar and Vocabulary_: 30/30
+
+Xuxu's writing test was impeccable as always. She has answered all the questions correctly, with adequate attention to detail (spellings, handwriting, punctuation). She is a consistent top performer with complete conceptual clarity. At her age, this performance is exceptional. She is all set to move up to J2A!
+
+_Speaking_: 60/60
+
+Xuxu is brilliant. She is extraordinary articulate in English, far beyond her age of 5 years. She attempted all the questions at the Speaking test correctly, and additionally provided extra information that wasn't even asked for (and all the extra information was also 100% accurate). At the J1B level, Xuxu is practically a prodigy. The only area where she lost 2 points is Listening Skills, where she understandably lacks a little, since she is much younger than all her classmates. Overall, she is a shining star. She is going to do great things in her career and future. I am proud to be her teacher.
+
+_Listening_: 8/10
+
+Most attentive. You can try to listen more closely in class and not interrupt the teacher when learning something new.
 
 ## A Trip to the Stars
 
