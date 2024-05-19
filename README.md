@@ -115,6 +115,73 @@ Chit! Children tend to talk in their sleep much more than adults. Sometimes slee
 
 Chat! Around 15 percent of children sleepwalk, and it happens more if you're not getting enough sleep. Sometimes children just sit up in bed. Sometimes they walk all around the house.
 
+## What Are Dreams?
+
+Dreams are mysterious things. They are pictures and stories created by our minds while we're sleeping. Sometimes they're fascinating, sometimes scary and sometimes just plain weird!
+
+You have as many as seven dreams each night. Scientists think that even babies growing in their mothers' wombs might dream. We forget nearly all of our dreams. The funny thing is, we are most likely to remember one if we wake up in the middle of it.
+
+It's difficult to study dreams, so there's still a lot we don't understand. Scientists are trying to discover exactly what dreams are for.
+
+We dream during a type of sleep called REM, or Rapid Eye Movement sleep. This is what happens:
+
+* Your eyes move quickly under your closed eyelids.
+* Your legs and arms can't move, and it's a good thing they can't. You wouldn't want to act out your dreams!
+* Your heart beats faster.
+
+When you first go to bed your dreams might last just a few minutes, but towards the end of the night you can dream for up to half an hour. The place where the most fascinating stuff happens, however, is in your brain.
+
+It might look like a bunch of pink sausages, but this is your brain! All parts of your brain are active while you dream, but one area is especially busy. It's called the limbic system, and it controls your emotions, such as anger, sadness and happiness. This might be why we often dream about the times when we've had strong feelings.
+
+The frontal lobe is the sensible bit of the brain. This part is quieter while we dream, which could explain why our dreams can be so scary.
+
+So the brain is very busy when we dream - but it's busy in a different way from when we're awake. Scientists think that during sleep, the brain is connecting the things we've learnt that day with everything else we've ever known. This could be why we can suddenly solve a difficult problem when we wake up!
+
+Yesterday by the Beatles is one of the most successful songs ever written. And it started as a dream! Paul McCartney dreamt the melody, woke up and rushed to his piano before he forgot it. Think what you might do with your dreams.
+
+## XXX
+
+* official /əˈfɪʃ.əl/
+* snore /snɔːr/
+* grunt /ɡrʌnt/
+* sweden /ˈswiː.dən/
+* decibel /ˈdes.ɪ.bel/
+* loud /laʊd/
+* lawn /lɑːn/
+* mower /ˈmoʊ.ɚ/
+
+The official world record for the loudest snore is held by Kare Walkert, who grunted and snored his way into the Guinness World Records in Sweden in 1993. His snore was recorded as 93 decibels, which is as loud as a lawn mower!
+
+* britain /ˈbrɪt.ən/
+* beaten /ˈbiː.t̬ən/
+* whop /wɑːp/
+* whopping /ˈwɑː.pɪŋ/
+* noise /nɔɪz/
+* noisy /ˈnɔɪ.zi/
+* jet /dʒet/
+* grandmother /ˈɡræn.mʌð.ɚ/
+* admit /ədˈmɪt/
+* champion /ˈtʃæm.pi.ən/
+
+But a woman in Britain has beaten that record. She was recorded snoring at whopping 111.6 decibels - that's noisier than a low-flying jet! The snore came from mouth of Jenny Chapman, a grandmother who admits she's been a champion snorer for as long as she can remember.
+
+* husband /ˈhʌz.bənd/
+* describe /dɪˈskraɪb/
+* roar /rɔːr/
+* trumpet /ˈtrʌm.pət/
+* elephant /ˈel.ə.fənt/
+* orang-utan /ɔːˈræŋ.ə.tæn/
+* perhaps /pɚˈhæps/
+
+Her husband says that sleeping in the same room with Jenny is like sleeping in a zoo. This is how he describes her different snores: "There's one that's like the roar of a lion, one that's like the trumpet of an elephant, and sometimes she does that thing that orang-utans do." Perhaps it's time someone invented the world's most powerful ear plugs?
+
+* measure /ˈmeʒ.ɚ/
+* rust /rʌst/
+* rustling /ˈrʌs.lɪŋ/
+* chainsaw /ˈtʃeɪn.sɔː/
+
+A decibel is the way we measure noise. The lower the decibel number, the quieter the noise. So 10 decibels is as quite as a rustling leaf, and 110 decibels is as loud as an ear-splitting chainsaw.
+
 ## Voluntary Work
 
 * country /ˈkʌn.tri/
