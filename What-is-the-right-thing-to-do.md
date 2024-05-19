@@ -1,0 +1,17 @@
+# What's the right thing to do
+
+## Doing the right thing
+
+In the summer of 2004, Hurricane Charley roared out of the Gulf of Mexico and swept across Florida to the Atlantic Ocean. The storm claimed twenty-two lives and caused $11 billion in damage. It also left in its wake a debate about price gouging.
+
+At a gas station in Orlando, they were selling two-dollar bags of ice for ten dollars. Lacking power for refrigerators or air-conditioning in the middle of August, many people had little choice but to pay up. Downed trees heightened demand for chain saws and roof repairs. Contractors offered to clear two trees off a homeowner's roof - for $23,000. Stores that normally sold small household generators for $250 were now asking $2,000. A seventy-seven-year-old woman fleeing the hurricane with her elderly husband and handicapped daughter was charged $160 per night for a motel room that normally goes for $40.
+
+Many Floridans were angered by the inflated prices. "After Storm Come the Vultures," read a headline in *USA Today*. One resident, told it would cost $10,500 to remove a fallen tree from his roof, said it was wrong for people to "try to capitalize on other people's hardship and misery." Charlie Crist, the state's attorney general, agreed: "It is astounding to me, the level of greed that someone must have in their soul to be willing to take advantage of someone suffering in the wake of hurricane."
+
+Florida has a law against price gouging, and in the aftermath of the hurricane, the attorney general's office received more than tow thousand complaints. Some led to successful lawsuits. A Days Inn in West Plam Beach had to pay $70,000 in penalties and restitution for overcharging customers.
+
+But even as Crist set about enforcing the price-gouging law, some economists argued that the law - and the public outrage - were misconceived. In medieval times, philosophers and theologians believed that the exchange of goods should be governed by a "just price", determined by tradition or the intrinsic value of things. But in market societies, the economists observed, prices are set by supply and demand. There is such thing as a "just price."
+
+Thomas Sowell, a free-market economist, called price gouging an "emotionally powerful but economically meaningless expression that most economists pay no attention to, because it seems too confused to bother with." Writing in the *Tampa Tribune,* Sowell sought to explain "how price gouging" helps Floridans". Charges of price gouging arise"when prices are significantly higher than what people have been used to," Sowell wrote. But "the price levels that you happen to be used to" are not morally sacrosanct. They are no more "special or fair than other prices" that market conditions - including those prompted by hurricane - may bring about.
+
+Higher prices for ice, bottled water, roof repairs, generators, Sowell argued, of limiting the use of such things by consumers and increasing incentives for suppliers in far-off places to provide the goods and services most needed in the hurricane's aftermath. If ice fetches ten dollars a bag when Floridans are facing power outages in the August heat, ice manufactures will find it worth their while to produce and ship more of it. There is nothing unjust about these prices, Sowell explained; they simply reflect the value that buyers and sellers choose to place on the things they exchange.
