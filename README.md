@@ -385,3 +385,59 @@ The taxis here are okay, I guess. The drivers take credit cards. That's the thin
 Oprah Winfery is a famous American TV talk show host. Forty nine million people in 134 countries watch her show every week. She lives in California but she also has a apartment in Chicago, where she works. Oprah is one of richest women in America. She earns milions of dollars every year. She gives a lot of money to charity.
 
 She was born on January 29th, 1954 in Kosciusko, Missisippi. Her parents were very poor. Her farther, Vernon Winfrey, worked in a coal mine and her mother, Vernita, cleaned houses. They couldn't look after Oprah, so she lived with her grandmother, Hattie Mae. Oprah was clever. She could read before she was three, and when she was seventeen she received a scholarship to Tennessee State University where she studied drama. She also started reading the news at the local radion station.
+
+## SAT
+
+### Q1
+
+In the early 1800s, the Cherokee scholar /ˈskɑː.lɚ/ Sequoyah created the first /ˈfɝːst/ script /skrɪpt/, or writing system /ˈsɪs.təm/, for an Indigenous /ɪnˈdɪdʒ.ə.nəs/ language /ˈlæŋ.ɡwɪdʒ/ in the United States. Because it represented /ˌrep.rɪˈzent/ the sounds /saʊnd/ of spoken Cherokee so accurately /ˈæk.jɚ.ət.li/, his script /skrɪpt/ was easy to learn and thus /ðʌs/ quickly achieved /əˈtʃiːv/ XXX use: by 1830, over 90 percent /pɚˈsent/ of the Cherokee people /ˈpiː.pəl/ could read and write it.
+
+1. widespread /ˌwaɪdˈspred/
+2. careful
+3. unintended /ˌʌn.ɪnˈten.dɪd/
+4. infrequent /ɪnˈfriː.kwənt/
+
+### Q2
+
+When Mexican-American archaeologist Zelia Maria Magdalena Nuttall published here 1886 research paper on sculptures found at the ancient Indigenous city of Teotihuacan in present-day Mexico, other researchers readily XXX here work as ground-breaking; this recognition stemmed from her convincing demonstration that the sculptures were much older than had previously been thought.
+
+1. acknowledged
+2. ensured
+3. denied
+4. underestimated
+
+### Q3
+
+Like other tribal nations, the Muscogee (Creek) Nation is self-governing; its National Council generates laws regulating aspects of community life such as land use and healthcare, while the principal chief and cabinet officials XXX those laws by devising policies and administering services in accordance with them.
+
+1. implement
+2. presume
+3. improvise
+4. mimic
+
+### Q4
+
+In the Indigenous intercopping system known as the Three Sisters, maize, squash, and beans from an XXX web of relations: maize provides the structure on which the bean vines grow; the squash vines cover the soil, discouraging competition from weeds; and the beans aid their two "sisters" by enriching the soil with essential nitrogen.
+
+1. indecipherable
+2. ornamental
+3. obscure
+4. intricate
+
+### Q5
+
+The artisans of the Igun Eronmwon guild in Benin City, Nigeria, typically XXX the bronze- and brass-casting techniques that have been passed down through their families since the thirteenth century, but they don't strictly observe every tradition; for example, guild members now use air-conditioning motors instead of handheld bellows to help heat their forges.
+
+1. experiment with
+2. adhere to
+3. improve on
+4. grapple with
+
+### Q6
+
+Some economic historians XXX that late nineteenth- and early twenty-century households in the United States experienced and economy of scale when it came to food purchases -  they assumed that large households spent less on food per person than did small households. Economist Trevon Logan showed, however, that a close look at the available data disproves this supposition.
+
+1. surmised
+2. contrived
+3. questioned
+4. regretted
